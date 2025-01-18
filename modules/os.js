@@ -19,8 +19,6 @@ const os = require("os");
 
 // console.log(os.totalmem());
 
-// Uptime -> Agar siz operatsion sistema qachon ishga tushganini bilmoqchi bulsangiz   va kompyutiringizni yoqanizga qancha  sekundvaqt o'tganligini   
+// Uptime -> Agar siz operatsion sistema qachon ishga tushganini bilmoqchi bulsangiz   va kompyutiringizni yoqanizga qancha  sekund vaqt o'tganligini  bilishingiz mumkin
 
-
-console.log(os.uptime());
-
+// console.log(os.uptime());
